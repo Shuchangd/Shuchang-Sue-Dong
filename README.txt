@@ -1,4 +1,4 @@
-Personal Website by Shuchang Dong
+Personal Website by Shuchang Dong: https://shuchangd.github.io/personal_website/
 shucd@upenn.edu | @University of Pennsylvania
 
 
